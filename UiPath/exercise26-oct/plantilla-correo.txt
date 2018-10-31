@@ -1,0 +1,15 @@
+Hola,
+
+Se descargaron 3 facturas
+
+Dummy-Invoice_12345.pdf
+
+Dummy-Invoice_30345.pdf
+
+Dummy-Invoice_764345.pdf
+
+a las {0}.
+
+Saludos,
+
+Eleana
